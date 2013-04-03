@@ -1,0 +1,1 @@
+This is a snake clone made with Python and Pygame.  There is a simple high score tracking system that prints the high scores to the terminal window when you die.
